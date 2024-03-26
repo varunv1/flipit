@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flipit/static/css/main.f855e6bc.css",
+    "main.js": "/flipit/static/js/main.0b3f4864.js",
+    "static/js/453.be928f7d.chunk.js": "/flipit/static/js/453.be928f7d.chunk.js",
+    "index.html": "/flipit/index.html",
+    "main.f855e6bc.css.map": "/flipit/static/css/main.f855e6bc.css.map",
+    "main.0b3f4864.js.map": "/flipit/static/js/main.0b3f4864.js.map",
+    "453.be928f7d.chunk.js.map": "/flipit/static/js/453.be928f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0b3f4864.js"
+  ]
+}

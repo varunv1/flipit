@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/flipit/static/css/main.e6c13ad2.css",
-    "main.js": "/flipit/static/js/main.ac5e32ea.js",
+    "main.js": "/flipit/static/js/main.2151650b.js",
     "static/js/453.79115537.chunk.js": "/flipit/static/js/453.79115537.chunk.js",
     "static/media/image_processing20220722-28208-yfhczu.gif": "/flipit/static/media/image_processing20220722-28208-yfhczu.a6598329d90b38e61d57.gif",
     "index.html": "/flipit/index.html",
     "main.e6c13ad2.css.map": "/flipit/static/css/main.e6c13ad2.css.map",
-    "main.ac5e32ea.js.map": "/flipit/static/js/main.ac5e32ea.js.map",
+    "main.2151650b.js.map": "/flipit/static/js/main.2151650b.js.map",
     "453.79115537.chunk.js.map": "/flipit/static/js/453.79115537.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ac5e32ea.js"
+    "static/js/main.2151650b.js"
   ]
 }

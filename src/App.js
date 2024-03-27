@@ -23,7 +23,7 @@ function App() {
 
   const whoWon = useMemo(() => {
     if (isFlipping) {
-      return Math.floor(Math.random() * 1000) % 2 === 0 ? "Team 1" : "Team 2";
+      return Math.floor(Math.random() * 1000) % 2 === 0 ? team1 : team2;
     }
     return "No winner";
   }, [isFlipping, team1, team2]);
@@ -81,6 +81,7 @@ function App() {
               margin: "auto",
               marginTop: "22px",
             }}
+            disabled={team1?.length === 0 || team2?.length === 0}
             size="large"
           >
             Toss
